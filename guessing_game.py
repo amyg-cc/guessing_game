@@ -12,7 +12,9 @@ import random
 #establish correct number
 
 number = random.randint(1,100)
-print(number)
+
+#print number for testing purposes only. comment out in production
+# print(number)
 
 #ask user for guess and store in a variable
 
